@@ -8,7 +8,7 @@
     </head>
     <body>
         <?php
-        echo "Version 1";
+        echo "Version 3";
         ?>
     </body>
 </html>
